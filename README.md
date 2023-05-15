@@ -1,14 +1,14 @@
 
-<h1 align="center">Hi 
+<h1 align="center">Hi  
 
   <img style= "width: 30px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 , I'm Wesley </h1>
 
 <h3 align="center">Building the web, one line of code at a time.</h3>
 
-- ❤️ I’m currently studying at the Federal university of ABC (UFABC - Brazil);
+- ❤️ I’m currently studying computer science at the Federal university of ABC (UFABC - Brazil);
 
-- 👀 Always learning something! This time: **Nest.js**;
+- 👀 Always learning something!
 
 - :left_speech_bubble: I speak: Portuguese and English;
 
@@ -21,9 +21,8 @@
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
   
-  <a href="mailto:wesleysantos20012001@gmail.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" height="40" width="35" align="center" ></a>
+  <a href="mailto:wesley.franca@bee4.com.br" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" height="40" width="35" align="center" ></a>
   <a href="https://www.linkedin.com/in/wesley-web-developer/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/wesley-santos-de-frança" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/19703555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19703555" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,9 +50,6 @@
   <a href="https://https://trello.com//" target="_blank" rel="noreferrer"> <img src="https://m.foolcdn.com/media/affiliates/original_images/trello_mNaUqoG.jpg" alt="trello" width="40" height="45"/> </a>
   
 </p>
-
-
-<p><img style= "width: 45%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesley-s-franca&show_icons=true&theme=dracula&locale=en&layout=compact" alt="wesley-franca" /></p>
 
 <br/>
 <p>&nbsp;<img style= "width: 45%" align="center" src="https://github-readme-stats.vercel.app/api?username=wesley-s-franca&show_icons=true&theme=dracula&locale=en" alt="wesley-franca" /></p>
