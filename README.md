@@ -52,4 +52,3 @@
 </p>
 
 <br/>
-<p>&nbsp;<img style= "width: 45%" align="center" src="https://github-readme-stats.vercel.app/api?username=wesley-s-franca&show_icons=true&theme=dracula&locale=en" alt="wesley-franca" /></p>
